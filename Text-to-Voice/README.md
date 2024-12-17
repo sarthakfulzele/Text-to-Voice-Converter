@@ -1,0 +1,1 @@
+Text-to-Voice-Converter is a project in which any input text can be converted into voice with the help of javascript. This project is built so that any language present in the device can be converted into voice. This project uses html, css and js to provide the required output. 
